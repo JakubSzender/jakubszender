@@ -11,7 +11,7 @@
 
 I’m a future backend developer. I'm coding since july 2021. It started from watching simple tutorials about C# syntax. Now i'm able to write more complex WebApps. When im coding i pay attention to detail and keep code as clean as possible.
 
-For now i create WebAPI in ASP.NET Core. Im using technologies like EntityFramework, AutoMapper, DependencyInjection, SQL.  
+In my spare time i create WebAPI in ASP.NET Core. Im using technologies like EntityFramework, AutoMapper, DependencyInjection, SQL.  
   
 
 <br/>  
