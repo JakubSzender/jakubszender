@@ -21,9 +21,10 @@ In my spare time i create WebAPI in ASP.NET Core.
 <table><tr><td valign="top" width="50%">
 
 - 👨‍🦰 23 years old  
+  
+- C#
    
 - 🔭 I’m currently learning Java 
-
 
 </td><td valign="top" width="50%">
 
