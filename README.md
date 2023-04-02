@@ -21,12 +21,8 @@ In my spare time i create WebAPI in ASP.NET Core.
 <table><tr><td valign="top" width="50%">
 
 - 👨‍🦰 23 years old  
-  
-
-- 🌱 I’m currently learning to write good RestAPI and Kubernetes  
-  
-
-- 🔭 I’m currently working on [MagicVillaAPI](https://github.com/JakubSzender/MagicVilla_API)  
+   
+- 🔭 I’m currently learning Java 
 
 
 </td><td valign="top" width="50%">
