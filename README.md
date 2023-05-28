@@ -22,9 +22,7 @@ In my spare time i create WebAPI in ASP.NET Core.
 
 - 👨‍🦰 23 years old  
   
-- C#
-   
-- 🔭 I’m currently learning Java 
+- 🔭 I’m currently writting in C#
 
 </td><td valign="top" width="50%">
 
