@@ -13,26 +13,7 @@ I’m a future backend developer. I'm coding since july 2021. It started from wa
 
 In my spare time i create WebAPI in ASP.NET Core.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 👨‍🦰 23 years old  
   
-- 🔭 I’m currently writting in C#
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -51,6 +32,8 @@ In my spare time i create WebAPI in ASP.NET Core.
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+  
+  <a>Full list</a>  
 </div>  
 
 <br/>  
