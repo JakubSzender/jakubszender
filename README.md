@@ -8,10 +8,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-I’m a future backend developer. I'm coding since july 2021. It started from watching simple tutorials about C# syntax. Now i'm able to write more complex WebApps. When im coding i pay attention to detail and keep code as clean as possible.
-
-In my spare time i create WebAPI in ASP.NET Core.  
   
   
 <br/>  
